@@ -12,7 +12,7 @@
 </p>
 
 --------------------------------------------
-# Blog Platform with Spring Boot and Docker
+<!--# Blog Platform with Spring Boot and Docker
 
 This is a basic project to create a blogging platform using Spring Boot, Docker, and other relevant technologies. The platform allows users to create, edit, and publish posts, as well as interact through comments. Administrators have access to additional functionalities such as content moderation and user management.
 
